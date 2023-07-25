@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fujiabai221
+- 👀 I’m interested in web.
+- Eager to learn, passionate about JavaScript and web development.
+- Open to collaboration.
